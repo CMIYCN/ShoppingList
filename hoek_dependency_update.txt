@@ -1,0 +1,10 @@
+npm i hoek  
+npm uninstall hoek 
+npm update 
+npm install  
+
+then
+
+git add .
+git commit -m 'update-hoek'
+git push origin master 
